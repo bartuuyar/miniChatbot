@@ -41,7 +41,7 @@ teacher_phone_numbers = {
     "Barış": "555-9012"
 }
 
-# Helper functions
+
 def respond(user_input):
     best_match_type = None
     best_match_similarity = 0.5
